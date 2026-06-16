@@ -3,7 +3,7 @@ import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-BOT_TOKEN = os.environ.get("8969725825:AAHlWpcdAPq034Cx2VVs4PWVMjmOB0iNJVk")
+BOT_TOKEN = "8969725825:AAHlWpcdAPq034Cx2VVs4PWVMjm0B0iNJVk"
 
 USER_BALANCES = {
     123456789: 250.00,
